@@ -111,6 +111,27 @@
             <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.5</sparkle:releaseNotesLink>
         </item>
 
+        <item>
+            <title>Version 1.1.6</title>
+            <pubDate>Fri, 29 May 2026 07:29:14 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.1.6/DockGroups-arm64.dmg"
+                sparkle:arch="arm64"
+                sparkle:edSignature="fFJrZm7WF/qleQ0tRV5zeIleiLaqgU14yjGPZLR3QHGNGF1L9AMm1cD4B7V61z84vDiZnlo9QjkFFOFVIiguBg=="
+                length="1582114"
+                type="application/octet-stream" />
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.1.6/DockGroups-x86_64.dmg"
+                sparkle:arch="x86_64"
+                sparkle:edSignature="rx9cJVQf5dQu0ca7si2Lr2zAj26P7CIyn79XUDPa5tPWrsZo58zxq/5a3/sEcXjek/Jc6hFXi+yG10dk0gnfBg=="
+                length="1605442"
+                type="application/octet-stream" />
+            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.6</sparkle:releaseNotesLink>
+        </item>
+
         <!-- Add a new <item> block here each release (newest first).
              sparkle:version  = CURRENT_PROJECT_VERSION (integer, must increment)
              sparkle:shortVersionString = MARKETING_VERSION (e.g. 1.1.0)
