@@ -24,7 +24,7 @@
                 sparkle:edSignature="auuvm7oNjPvIH4TsJ9/nAQFnEkEADkaGuiYBcs1/1QVxznEe9gtAr1peEy+Dxb/SQb371CyVaKs7kl+8Fu5NAA=="
                 length="1566122"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.0</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -45,7 +45,7 @@
                 sparkle:edSignature="0PuMbIiAKPRPdPHmzf9hNhvq9urwZ0RfHywHycApiPuq9BxErPwAbC2ScFR9dOVC5FUzajZrfIPge7fMe2ANBQ=="
                 length="1596892"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.2</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.2.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -66,7 +66,7 @@
                 sparkle:edSignature="q5NinJANNG8baNpEAqAWFXPoXW0L6Lovjf9wtB3OxjcxIGabIHCyxfc1S1lwVmE3aRBvsM64fjyL6Am8QQwIDw=="
                 length="1594878"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.3</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.3.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -87,7 +87,7 @@
                 sparkle:edSignature="LhHs8qNG+K/ID/XLOT1eqNru4UAcBo+5ApO2Iw6kvTSdJnEJRbHdhqg38DqCcJ/Iwr0VUNV9Ha3WmP7YlKWoBw=="
                 length="1594846"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.4</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.4.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -108,7 +108,7 @@
                 sparkle:edSignature="2r2jo6ROFpAzqYokNTC7j5Chwm2Vd37ac4h9MbwLIndZ0xwavc/h6FisFU9Scle0hCZHx6Xf6Sxh2N7ApdXpDQ=="
                 length="1606373"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.5</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.5.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -129,7 +129,7 @@
                 sparkle:edSignature="rx9cJVQf5dQu0ca7si2Lr2zAj26P7CIyn79XUDPa5tPWrsZo58zxq/5a3/sEcXjek/Jc6hFXi+yG10dk0gnfBg=="
                 length="1605442"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.6</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.6.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -150,7 +150,7 @@
                 sparkle:edSignature="Ym0xRUzbRBV9OjwmMTyb1DRRO2os9D1D43Yh8xKDCaiPytHoT5PEj+K/poBGULRAGIG+Kdx5vdM2O0Na+Vv4Cw=="
                 length="1606839"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.7</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.7.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -171,7 +171,7 @@
                 sparkle:edSignature="eLndJjFveuELNXOVERsrcHKhvApBUzb1sdr/Ron1leJAE/e3egbjPPR6SUEnSMfavkfoUKvLrjhge4zWWxv7Aw=="
                 length="1606875"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.8</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.8.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -192,7 +192,7 @@
                 sparkle:edSignature="GWLQ0hlGbG6K/qm6s7j6hQoGri/gYRVJGpH7zpKNOfieTYAvpGm6sd5M/3/vqZdeM6BdRtZYfKqB4GDDMNawCw=="
                 length="1609968"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://github.com/Rajic93/dock-groups-appcast/releases/tag/v1.1.9</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.1.9.html</sparkle:releaseNotesLink>
         </item>
 
         <!-- Add a new <item> block here each release (newest first).
