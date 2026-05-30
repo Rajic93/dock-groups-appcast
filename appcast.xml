@@ -321,6 +321,21 @@
             <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.2.6.html</sparkle:releaseNotesLink>
         </item>
 
+        <item>
+            <title>Version 1.2.7</title>
+            <pubDate>Sat, 30 May 2026 17:41:49 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>File Doesn't Exist, Will Create: /private/tmp/DockGroups-build/universal/DockGroups.xcarchive/Products/Applications/DockGroups.app/Contents/Info.plist
+14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.2.7/DockGroups.dmg"
+                sparkle:edSignature="zcv4ZPOLlo4ZGAWR8fkbhxnq4FHBiKAgiwe+agJKEv/y8YDnVQYFR9kwqOGEqsgFcJhj5iXoKSE8cJvDBszGDA=="
+                length="1960905"
+                type="application/octet-stream" />
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.2.7.html</sparkle:releaseNotesLink>
+        </item>
+
         <!-- Add a new <item> block here each release (newest first).
              sparkle:version  = CURRENT_PROJECT_VERSION (integer, must increment)
              sparkle:shortVersionString = MARKETING_VERSION (e.g. 1.1.0)
