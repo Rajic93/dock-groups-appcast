@@ -336,6 +336,20 @@
             <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.2.7.html</sparkle:releaseNotesLink>
         </item>
 
+        <item>
+            <title>Version 1.2.8</title>
+            <pubDate>Sat, 30 May 2026 17:56:38 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.2.8/DockGroups.dmg"
+                sparkle:edSignature="oA3vKAVVlkCOn6bhy7Zks0bulAbV+FT+DqPx8KJql5FKgoton58D3ojs44KQdr7qzTW74ln2GT9Uw959euUDCQ=="
+                length="1956017"
+                type="application/octet-stream" />
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.2.8.html</sparkle:releaseNotesLink>
+        </item>
+
         <!-- Add a new <item> block here each release (newest first).
              sparkle:version  = CURRENT_PROJECT_VERSION (integer, must increment)
              sparkle:shortVersionString = MARKETING_VERSION (e.g. 1.1.0)
