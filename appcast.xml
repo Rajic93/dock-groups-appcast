@@ -30,7 +30,7 @@
                 type="application/octet-stream"
             />
             <sparkle:releaseNotesLink
-            >https://mac-dock-groups.vercel.app/release-notes/v1.3.2.html</sparkle:releaseNotesLink>
+            >https://dockgroups.com/release-notes/v1.3.2.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -51,7 +51,7 @@
                 sparkle:edSignature="3+8VawhDtLuTuYKVD+q1HZ4fnxd0xu0i/vSPQn+WiRGfpJmVHmJW5MXOAkbrS+puUSDkUUU4PbWZMEgiXlLUBA=="
                 length="1640719"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.4.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.4.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -72,7 +72,7 @@
                 sparkle:edSignature="RUcqwzJrEKTDg7CuFzQPDUiKV3ot/ldiJObC40ohsMd78FtSeFrwO87QpvI7jb/vvmYGfpJHIQWpOxkNMZ4IBQ=="
                 length="1657181"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.5.1.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.5.1.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -92,7 +92,7 @@
                 sparkle:edSignature="50EgGfYELa9fIWhZy/QSM2cDMZy4l4O+DblLi/NmEhZWRQEdnCtrqDQyCGe8WUpd2pQtAlSYnEc73LBGSLLdAA=="
                 length="1668493"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.7.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.7.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -112,7 +112,7 @@
                 sparkle:edSignature="W3M8YtjFXU1gbLteOD6DkTYRWr7+XIrqyVvLnrtIvMD+36Mqwe+Q7yogJe5vlQvXP9iFpWwBMPEA0iPQKOGFCA=="
                 length="1668473"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.7.1.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.7.1.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -132,7 +132,7 @@
                 sparkle:edSignature="kpdEiLrs2RafQoyBYoighJLVUF9zDHkbUxdOfXo9DGkTWD4wnFPmXevM2gsDGv3kHtTSt70KAa34r06WKZ09Bw=="
                 length="1679021"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.7.2.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.7.2.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -152,7 +152,7 @@
                 sparkle:edSignature="Q53trYlr5xdFVbtiE6+1Ly7Nj13Ihn9I8QxYC/o9x0maoYS2KMGlT1r0c+QSN1k2jWFXv/oWiyiWzVtwoyzoCA=="
                 length="1697039"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.8.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.8.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -172,7 +172,7 @@
                 sparkle:edSignature="4SF4bwHKjD49H/nI7bcRne9b+L4qAj8/vrJ7resKIk7obyeZhRob52ZGnftxhOIc4h5iI+ar3PgUMiENXRaaBg=="
                 length="1748055"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -192,7 +192,7 @@
                 sparkle:edSignature="4SF4bwHKjD49H/nI7bcRne9b+L4qAj8/vrJ7resKIk7obyeZhRob52ZGnftxhOIc4h5iI+ar3PgUMiENXRaaBg=="
                 length="1748055"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -212,7 +212,7 @@
                 sparkle:edSignature="4SF4bwHKjD49H/nI7bcRne9b+L4qAj8/vrJ7resKIk7obyeZhRob52ZGnftxhOIc4h5iI+ar3PgUMiENXRaaBg=="
                 length="1748055"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -232,7 +232,7 @@
                 sparkle:edSignature="4SF4bwHKjD49H/nI7bcRne9b+L4qAj8/vrJ7resKIk7obyeZhRob52ZGnftxhOIc4h5iI+ar3PgUMiENXRaaBg=="
                 length="1748055"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -252,7 +252,7 @@
                 sparkle:edSignature="4SF4bwHKjD49H/nI7bcRne9b+L4qAj8/vrJ7resKIk7obyeZhRob52ZGnftxhOIc4h5iI+ar3PgUMiENXRaaBg=="
                 length="1748055"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.9.0.html</sparkle:releaseNotesLink>
         </item>
 
         <item>
@@ -272,7 +272,7 @@
                 sparkle:edSignature="bhfD/BNCEBJv9+HT43FKtFnJDuh173fWdAYXzN2MXIFyvZPs4/pPVBaqR3YllA0gsyUH4QLnyQWIgA/qRki5Dg=="
                 length="1808753"
                 type="application/octet-stream" />
-            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.10.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://dockgroups.com/release-notes/v1.10.0.html</sparkle:releaseNotesLink>
         </item>
 
         <!-- Add a new <item> block here each release (newest first).
