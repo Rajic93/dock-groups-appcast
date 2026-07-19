@@ -295,6 +295,26 @@
             <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.11.0.html</sparkle:releaseNotesLink>
         </item>
 
+        <item>
+            <title>Version 1.12.0</title>
+            <pubDate>Sun, 19 Jul 2026 12:27:36 +0000</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.12.0/DockGroups-x86_64-legacy.dmg"
+                sparkle:arch="x86_64"
+                sparkle:edSignature="u0j/FZNUgUYmsG6eETnP3xrGztB8m/KIGsdFgv0aCFxrZUl+7ZnFP2URFFHGo8nWu9+u+hFAo7f9MX/0iiTuCw=="
+                length="1864858"
+                type="application/octet-stream" />
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.12.0/DockGroups-arm64-legacy.dmg"
+                sparkle:arch="arm64"
+                sparkle:edSignature="PmKIAxIPZ9+lYV+o6I75V37cXOjlKCC0XYYg9JYSnKmLKOfF5fRSb/FfovCD1p0WZtKri0ogSgxTfecVFcnmCA=="
+                length="1817980"
+                type="application/octet-stream" />
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.12.0.html</sparkle:releaseNotesLink>
+        </item>
+
         <!-- Add a new <item> block here each release (newest first).
              sparkle:version  = CURRENT_PROJECT_VERSION (integer, must increment)
              sparkle:shortVersionString = MARKETING_VERSION (e.g. 1.1.0)
