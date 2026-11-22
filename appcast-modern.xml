@@ -289,6 +289,26 @@
             <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.13.0.html</sparkle:releaseNotesLink>
         </item>
 
+        <item>
+            <title>Version 1.14.0</title>
+            <pubDate>Sun, 22 Nov 2026 14:00:31 +0000</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.14.0/DockGroups-x86_64.dmg"
+                sparkle:arch="x86_64"
+                sparkle:edSignature="RucQg+OnZNGfEOlwQ23q+apAAsKN/igryJryqO9d4w+tIU3nLl+1KCY/IKzZNMRFUqtMohNIdVpL5cQvD0QxCQ=="
+                length="2028330"
+                type="application/octet-stream" />
+            <enclosure
+                url="https://github.com/Rajic93/dock-groups-appcast/releases/download/v1.14.0/DockGroups-arm64.dmg"
+                sparkle:arch="arm64"
+                sparkle:edSignature="WNAMUcp6IhZYLF7YtBboytk9jr7IhyCSxiOMW/6RVrxdxan+Y0gC8Sq/8KqlHqNSB3Ygmv3Xwt3Ad8wLrViNCw=="
+                length="1969979"
+                type="application/octet-stream" />
+            <sparkle:releaseNotesLink>https://mac-dock-groups.vercel.app/release-notes/v1.14.0.html</sparkle:releaseNotesLink>
+        </item>
+
         <!-- Modern track: native-SDK (sdk 26) builds, read ONLY by macOS 26+
              clients (the app routes here via feedURLString when the OS major is
              >= 26). macOS 14/15 clients never read this feed and instead use
